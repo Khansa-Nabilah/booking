@@ -5,3 +5,4 @@ pandas==2.1.4
 scikit-learn
 protobuf==3.20.3
 altair==4.2.2
+xgboost==1.6.0
